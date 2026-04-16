@@ -118,7 +118,7 @@
     <h2>2.프로젝트 생성</h2>
     <h3>[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성합니다.</h3>
     <div>
-     <img width="460" height="374" alt="image" src="https://github.com/user-attachments/assets/61180869-9ab6-4648-9cdd-670e0abd10fa" />
+     <img width="460" height="376" alt="image" src="https://github.com/user-attachments/assets/a7033792-b400-42bb-9c6e-d9ff93edc60d" />
     </div>
     <ol>
       <li>프로젝트 이름을 등록합니다.</li>
