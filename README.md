@@ -118,7 +118,7 @@
     <h2>2.프로젝트 생성</h2>
     <h3>[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성합니다.</h3>
     <div>
-     <img width="460" height="376" alt="image" src="https://github.com/user-attachments/assets/5f0a8d63-865b-4559-b41c-dcab73cb9140" />
+     <img width="460" height="374" alt="image" src="https://github.com/user-attachments/assets/61180869-9ab6-4648-9cdd-670e0abd10fa" />
     </div>
     <ol>
       <li>프로젝트 이름을 등록합니다.</li>
@@ -133,7 +133,7 @@
     <h2>3.검색조건 생성</h2>
     <h3>선탠된 프로젝트에서 [검색조건] 버튼을 클릭하여 검새조건을 생성합니다.</h3>
     <div>
-     <img width="460" height="376" alt="image" src="https://github.com/user-attachments/assets/5f0a8d63-865b-4559-b41c-dcab73cb9140" />
+     <img width="723" height="422" alt="image" src="https://github.com/user-attachments/assets/7ff89ca2-57d0-4b04-b671-1726607d99ac" />
     </div>
     <ol>
       <li>프로젝트 이름을 등록합니다.</li>
