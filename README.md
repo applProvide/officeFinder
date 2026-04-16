@@ -53,7 +53,7 @@
   <li>PDF    : .pdf</li>
   <li>PowerPoint : .ppt, .pptx</li>
   <li>한글(HWP) : .hwp, .hwpx</li>
-  <li>텍스트 : .txt</li>
+  <li>텍스트 : .txt, .xml, .js, .py,.csv,.log,.html,.htm,.css,.java,.cpp,.c,.json,.yaml,.yml,.bat,.sh</li>
 </ul>
 <ul>
   <li>여러 포맷을 하나의 검색 시스템에서 처리</li>
