@@ -1,5 +1,5 @@
 # OfficeFinder
-### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Install Guide](INSTALL.ko.md)
+### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [설치 안내](INSTALL.ko.md)
 <h1>문서 통합 검색 프로그램(다중 포맷 문맥 기반 문서 검색 엔진)</h1>
 <h2>다양한 문서를 하나의 시스템으로 통합 검색</h2>
 <h3>• Excel, Word, PDF, HWP까지 완벽 지원</h3>
