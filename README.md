@@ -1,157 +1,160 @@
 # OfficeFinder
 ### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Install Guide](INSTALL.md)
-<h1>문서 통합 검색 프로그램(다중 포맷 문맥 기반 문서 검색 엔진)</h1>
-<h2>다양한 문서를 하나의 시스템으로 통합 검색</h2>
-  • Excel, Word, PDF, HWP까지 완벽 지원
-  • 그룹 기반 조건 검색으로 정밀한 데이터 추출
-  • 키워드 + 문맥 분석으로 높은 검색 정확도 제공
 
-👉 업무 효율을 높이는 차세대 문서 검색 솔루션
+<h1>Integrated Document Search Program (Multi-format Context-Based Document Search Engine)</h1>
+<h2>Search across multiple document types in one unified system</h2>
+  • Full support for Excel, Word, PDF, and HWP  
+  • Precise data extraction with group-based conditional search  
+  • High accuracy through keyword + context analysis  
+
+👉 A next-generation document search solution that boosts productivity
 
 
 <ul>
-  <li>Excel, Word, PDF, PPT,HWP까지 완벽 지원</li>
-  <li>그룹 기반 조건 검색으로 정밀한 데이터 추출</li>
-  <li>키워드 + 문맥 분석으로 높은 검색 정확도 제공</li>
-  <li>단순 키워드 매칭을 넘어 단어 간 관계와 문맥을 기반으로 검색 수행</li>
-  <li>흩어진 문서, 하나의 검색으로 검색</li>
-  <li>특정 단어의 앞뒤 맥락까지 분석하는 정밀 검색</li>
-  <li>다양한 문서 포맷을 텍스트만 추출하여 하나로 통합해서 검색</li>
+  <li>Full support for Excel, Word, PDF, PPT, and HWP</li>
+  <li>Precise data extraction with group-based conditional search</li>
+  <li>High search accuracy through keyword + context analysis</li>
+  <li>Goes beyond simple keyword matching by analyzing relationships and context between words</li>
+  <li>Search scattered documents in one place</li>
+  <li>Advanced search that analyzes the context before and after specific words</li>
+  <li>Extracts text from various document formats and integrates them into a single searchable system</li>
 </ul>
 
-<h3>1. 개요</h3>
-<h4>본 프로그램은 다양한 문서 파일에서 원하는 정보를 빠르게 추출하기 위한 고급 조건 기반 통합 문서 검색 시스템입니다.</h4>
-<h4>단순 키워드 검색을 넘어,특정 단어의 **문맥(앞뒤 단어)**까지 분석하여 검색 정확도를 높이는 것이 특징입니다.</h4>
+<h3>1. Overview</h3>
+<h4>This program is an advanced condition-based integrated document search system designed to quickly extract desired information from various document files.</h4>
+<h4>Beyond simple keyword search, it improves accuracy by analyzing the **context (surrounding words)** of specific terms.</h4>
 
-<h3>2. 주요 기능</h3>
-<h4>2.1 그룹 기반 검색 시스템</h4>
+<h3>2. Key Features</h3>
+
+<h4>2.1 Group-Based Search System</h4>
 <ul>
-  <li>검색 조건을 그룹 단위로 구성할 수 있음</li>
-  <li>각 그룹은 독립적으로 조건을 가지며, 전체 검색 시 조합됨</li>
-  <li>복잡한 조건을 논리적으로 구성 가능</li>
-  <li>AND / OR 방식 확장 가능 </li>
-  <li>검색 결과 하이라이트 표시</li>
+  <li>Search conditions can be organized into groups</li>
+  <li>Each group has independent conditions and is combined during overall search</li>
+  <li>Complex conditions can be logically structured</li>
+  <li>Supports AND / OR logical expansion</li>
+  <li>Highlights search results</li>
 </ul>
-<h4>2.2 키워드 + 문맥 기반 검색</h4>
+
+<h4>2.2 Keyword + Context-Based Search</h4>
 <ul>
-  <li>단순 단어 검색이 아닌,특정 단어의 앞뒤 문맥을 함께 검색하여 정확도를 향상</li>
-  <li>기본 키워드 검색 - 특정 단어 포함 여부 확인</li>
-  <li>문맥 확장 검색 - 특정 단어 기준으로 앞/뒤 단어를 함께 검색</li>
+  <li>Improves accuracy by analyzing the context before and after keywords</li>
+  <li>Basic keyword search – checks for the presence of specific terms</li>
+  <li>Context expansion search – searches surrounding words based on a keyword</li>
   <li>
-    • “계약”이라는 단어 검색<br />
-    • “계약” + 앞 단어: “전자”<br />
-    • “계약” + 뒤 단어: “체결”<br />
-  → “전자 계약 체결” 같은 문맥까지 정확히 탐지
+    • Search for the word “contract”<br />
+    • “contract” + preceding word: “electronic”<br />
+    • “contract” + following word: “execution”<br />
+    → Accurately detects context such as “electronic contract execution”
   </li>
-  <li>오탐지 감소</li>
-  <li>오탐지 감소</li>
-  <li>실제 문서 내용에 가까운 검색 결과</li>
+  <li>Reduces false positives</li>
+  <li>Provides results closer to actual document content</li>
 </ul>
-<h4>2.3 다양한 문서 형식 지원</h4>
+
+<h4>2.3 Support for Multiple Document Formats</h4>
 <ul>
   <li>Excel  : .xls, .xlsx</li>
   <li>Word   : .doc, .docx</li>
   <li>PDF    : .pdf</li>
   <li>PowerPoint : .ppt, .pptx</li>
-  <li>한글(HWP) : .hwp, .hwpx</li>
-  <li>텍스트 : .txt, .xml, .js, .py,.csv,.log,.html,.htm,.css,.java,.cpp,.c,.json,.yaml,.yml,.bat,.sh</li>
+  <li>HWP (Hangul) : .hwp, .hwpx</li>
+  <li>Text : .txt, .xml, .js, .py, .csv, .log, .html, .htm, .css, .java, .cpp, .c, .json, .yaml, .yml, .bat, .sh</li>
 </ul>
 <ul>
-  <li>여러 포맷을 하나의 검색 시스템에서 처리</li>
-  <li>파일 형식에 관계없이 동일한 검색 경험 제공</li>
+  <li>Processes multiple formats within a single search system</li>
+  <li>Provides a consistent search experience regardless of file type</li>
 </ul>
 
-<h4>2.4 다중 조건 조합 검색</h4>
+<h4>2.4 Multi-Condition Combined Search</h4>
 <ul>
-  <li>여러 그룹을 동시에 적용하여 복합 검색 수행</li>
-  <li>ex) (계약 관련 키워드) AND (금액 포함) AND (특정 문맥 포함)</li>
-  <li>필요한 정보만 정확히 추출</li>
-  <li>대용량 문서에서도 빠른 필터링</li>
-</ul>
-<h4>2.5 사용자 편의 기능</h4>
-<ul>
-  <li>직관적인 UI 기반 조건 설정</li>
-  <li>반복 검색을 위한 조건 유지 기능</li>
-  <li>빠른 검색 속도</li>
-  <li>조건에 맞는 문서 및 위치 확인 가능</li>
-</ul>
-<h3>3.핵심 기술 특징</h3>
-
-<h4>✔ 문맥 기반 검색 알고리즘</h4>
-<ul>
-<li>키워드 중심이 아닌 문장 구조 기반 검색</li>
-<li>단어 간 관계를 고려한 탐색</li>
+  <li>Performs complex searches by applying multiple groups simultaneously</li>
+  <li>e.g.) (contract-related keywords) AND (includes amount) AND (specific context)</li>
+  <li>Extracts only the required information accurately</li>
+  <li>Fast filtering even in large volumes of documents</li>
 </ul>
 
-<h4>✔ 다중 포맷 파싱 처리</h4>
+<h4>2.5 User Convenience Features</h4>
+<ul>
+  <li>Intuitive UI-based condition configuration</li>
+  <li>Condition retention for repeated searches</li>
+  <li>Fast search performance</li>
+  <li>Ability to locate matching documents and positions</li>
+</ul>
+
+<h3>3. Core Technologies</h3>
+
+<h4>✔ Context-Based Search Algorithm</h4>
+<ul>
+  <li>Sentence structure-based search rather than keyword-only matching</li>
+  <li>Considers relationships between words</li>
+</ul>
+
+<h4>✔ Multi-format Parsing Processing</h4>
 <ul> 
-  <li>각 문서 형식별 데이터 추출 로직 적용</li>
-  <li>통합된 텍스트 데이터로 변환 후 검색 수행</li>
+  <li>Applies data extraction logic for each document format</li>
+  <li>Converts into unified text data for integrated searching</li>
 </ul>
 
-
-<h3>3. 활용 사례</h3>
+<h3>4. Use Cases</h3>
 <ul>
-  <li>📑 계약서 / 법률 문서 검색</li>
-  <li>📊 보고서 내 특정 내용 추출</li>
-  <li>🏢 사내 문서 통합 검색 시스템</li>
-  <li>🔎 키워드 기반 감사 및 검증 작업</li>
+  <li>📑 Contract / legal document search</li>
+  <li>📊 Extracting specific content from reports</li>
+  <li>🏢 Internal document integration search system</li>
+  <li>🔎 Keyword-based auditing and verification tasks</li>
 </ul>
 
 <section>
-  <h1>사용자 메뉴얼 (실사용자용 설명)</h1>
+  <h1>User Manual (End-User Guide)</h1>
+
   <section>
-    <h2>1.기본화면 설명</h2>
+    <h2>1. Main Screen Overview</h2>
     <div>
       <img width="804" height="458" alt="image" src="https://github.com/user-attachments/assets/4eab18ad-5ad7-4369-b37a-d70bc5cf1b24" />
     </div>
     <ol>
-      <li>새로은 프로젝트를 생성합니다.</li>
-      <li>검색 조건이 표시됩니다.</li>
-      <li>선택된 검색조건에 따라 검색을 시작합니다.</li>
-      <li>생성된 프로젝트가 표시되며 수정/삭제/검색조건을 생성합니다.</li>
-      <li>선택된 프로젝트의 폴더 및 파일 목록을 표시합니다.</li>
-      <li>파일 원 클릭시 우측에 표시되면 더블클릭시 pc에서 파일을 열수 있습니다.</li>
-      <li>문서 파일명</li>
+      <li>Create a new project</li>
+      <li>Search conditions are displayed</li>
+      <li>Start searching based on selected conditions</li>
+      <li>Created projects are listed, allowing edit/delete/search condition setup</li>
+      <li>Displays folders and file list of the selected project</li>
+      <li>Single-click shows file on the right, double-click opens it on your PC</li>
+      <li>Document file name</li>
     </ol>
   </section>
+
   <section>
-    <h2>2.프로젝트 생성</h2>
-    <h3>[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성합니다.</h3>
+    <h2>2. Creating a Project</h2>
+    <h3>Click the [Create New Project] button to create a project.</h3>
     <div>
      <img width="460" height="376" alt="image" src="https://github.com/user-attachments/assets/a7033792-b400-42bb-9c6e-d9ff93edc60d" />
     </div>
     <ol>
-      <li>프로젝트 이름을 등록합니다.</li>
-      <li>검색조건에 포함할 폴더를 추가합니다.</li>
-      <li>검색조건에 포함할 파일을 추가합니다.</li>
-      <li>프로젝트를 저장합니다.</li>
-      <li>추가한 폴더나 파일을 삭제합니다.</li>
+      <li>Enter the project name</li>
+      <li>Add folders to include in search conditions</li>
+      <li>Add files to include in search conditions</li>
+      <li>Save the project</li>
+      <li>Delete added folders or files</li>
     </ol>
   </section>
 
   <section>
-    <h2>3.검색조건 생성</h2>
-    <h3>선탠된 프로젝트에서 [검색조건] 버튼을 클릭하여 검새조건을 생성합니다.</h3>
+    <h2>3. Creating Search Conditions</h2>
+    <h3>Click the [Search Conditions] button in the selected project to create conditions.</h3>
     <div>
      <img width="723" height="422" alt="image" src="https://github.com/user-attachments/assets/7ff89ca2-57d0-4b04-b671-1726607d99ac" />
     </div>
      <ol>
-      <li>새로운 검색조건을 생성합니다.</li>
-      <li>검색조건을 저장합니다.</li>
-      <li>선택된 검색조건을 복사합니다.복사후 좌측에 복사된 이름이 표시됩니다.</li>
-      <li>선택된 검색조건을 삭제합니다</li>
-      <li>생성된 검색조건이 표시됩니다.</li>
-      <li>그룹간 and 와 or 로 조인합니다.</li>
-      <li>검색조건에 포함할 그룹을 추가합니다.</li>
-      <li>그룹안에 포함된 조건들의 연산을 지정합니다.</li>
-      <li>검색어를  입력합니다.</li>
-      <li>검색어 기준으로 앞/뒤로 추가 검색할 글자수를 입력합니다.(숫자만 입력합니다.)</li>
-      <li>추가 검색할 단어를 쉼표로 구분해서 입력합니다.ex)홍길동,강감찬 </li>
-      <li>추가검색 단어를 and 와 or 로 조인합니다.</li>
+      <li>Create a new search condition</li>
+      <li>Save the search condition</li>
+      <li>Copy the selected condition (copied name appears on the left)</li>
+      <li>Delete the selected condition</li>
+      <li>Displays created search conditions</li>
+      <li>Join groups using AND / OR</li>
+      <li>Add groups to include in the search</li>
+      <li>Define operations for conditions within a group</li>
+      <li>Enter search keywords</li>
+      <li>Enter the number of characters to expand before/after the keyword (numbers only)</li>
+      <li>Enter additional keywords separated by commas (e.g., John, Smith)</li>
+      <li>Join additional keywords using AND / OR</li>
     </ol>
   </section>
-  
 </section>
-
-
