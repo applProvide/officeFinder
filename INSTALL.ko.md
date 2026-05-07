@@ -6,8 +6,8 @@
   <li>압축파일 버전: 별도 설치 없이 압축 해제 후 바로 실행 가능</li>
 </ul>
 
-<h3><a href="https://github.com/applProvide/officeFinder/releases/download/v1.0.0/ExcelFinder_setup.zip">설치형 다운로드</a></h3>
-<h3><a href="https://github.com/applProvide/officeFinder/releases/download/v1.0.0/excelFinder.zip">압축파일 다운로드</a></h3>
+<h3><a href="https://github.com/applProvide/officeFinder/releases/download/v1.0.0/OfficeFinder_setup.zip">설치형 다운로드</a></h3>
+<h3><a href="https://github.com/applProvide/officeFinder/releases/download/v1.0.0/officeFinder.zip">압축파일 다운로드</a></h3>
 
 <section>
   <h1>설치형 - 설치 방법</h1>
