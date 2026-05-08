@@ -1,5 +1,5 @@
 # OfficeFinder
-### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Install Guide](INSTALL.md)
+### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Free Download](INSTALL.md)
 Fast document search tool for Excel, PDF, Word, and HWP files.
 
 <h1>Integrated Document Search Program (Multi-format Context-Based Document Search Engine)</h1>
