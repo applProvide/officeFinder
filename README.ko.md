@@ -2,6 +2,19 @@
 ### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [무료 다운로드](INSTALL.ko.md)
 <h1>문서 통합 검색 프로그램(다중 포맷 문맥 기반 문서 검색 엔진)</h1>
 <h2>다양한 문서를 하나의 시스템으로 통합 검색</h2>
+## 🎬 Demo
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ya5uz2rf4lg">
+    <img src="https://img.youtube.com/vi/ya5uz2rf4lg/0.jpg" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ya5uz2rf4lg">
+    <img src="https://img.shields.io/badge/▶-Watch%20Full%20Demo-red?style=for-the-badge&logo=youtube">
+  </a>
+</p>
+
 <h3>• Excel, Word, PDF, HWP까지 완벽 지원</h3>
 <h3>• 그룹 기반 조건 검색으로 정밀한 데이터 추출</h3>
 <h3>• 키워드 + 문맥 분석으로 높은 검색 정확도 제공</h3>
