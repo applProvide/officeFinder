@@ -1,6 +1,6 @@
 # OfficeFinder
 ### 🌐 [English](README.md) | [한국어](README.ko.md) | 📦 [Free Download](INSTALL.md)
-Fast document search tool for Excel, PDF, Word, and HWP files.
+Fast document search tool for Excel, PDF, Word, PPT,IMG and HWP files.
 
 <h1>Integrated Document Search Program (Multi-format Context-Based Document Search Engine)</h1>
 <h2>Search across multiple document types in one unified system</h2>
@@ -18,13 +18,14 @@ Fast document search tool for Excel, PDF, Word, and HWP files.
   </a>
 </p>
 
-<h3>• Full support for Excel, Word, PDF, and HWP</h3>  
+<h3>• Full support for Excel, Word, PDF, PPT ,IMG and HWP</h3>  
 <h3>• Precise data extraction with group-based conditional search  </h3>  
 <h3>• High accuracy through keyword + context analysis  </h3>  
 <h3>• PDF search tool</h3>  
 <h3>• document search software</h3>  
 <h3>• Excel search program</h3>  
 <h3>• HWP search tool</h3>  
+<h3>• IMG search tool(JPG,JPEG,PNG)</h3>  
 
 👉 A next-generation document search solution that boosts productivity
 
