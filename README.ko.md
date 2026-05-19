@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3>• Excel, Word, PDF, HWP까지 완벽 지원</h3>
+<h3>• Excel, Word, PDF, PPT,IMG,HWP까지 완벽 지원</h3>
 <h3>• 그룹 기반 조건 검색으로 정밀한 데이터 추출</h3>
 <h3>• 키워드 + 문맥 분석으로 높은 검색 정확도 제공</h3>
 
@@ -23,7 +23,7 @@
 
 
 <ul>
-  <li>Excel, Word, PDF, PPT,HWP까지 완벽 지원</li>
+  <li>Excel, Word, PDF, PPT,IMG,HWP까지 완벽 지원</li>
   <li>그룹 기반 조건 검색으로 정밀한 데이터 추출</li>
   <li>키워드 + 문맥 분석으로 높은 검색 정확도 제공</li>
   <li>단순 키워드 매칭을 넘어 단어 간 관계와 문맥을 기반으로 검색 수행</li>
